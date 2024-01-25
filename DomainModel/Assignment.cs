@@ -1,6 +1,6 @@
 namespace DomainModel;
 
-public class User
+public class Assignment
 {
     string DueDate;
     string OpenDate;

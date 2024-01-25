@@ -2,11 +2,11 @@ namespace DomainModel;
 
 public class Course
 {
-    string Name;
-    User<list> users;
-    Assignment<list> assignments
-Grade<lidt> grades
-public void CreateAssignments()
+    string name;
+    List<Object> users;
+    List<Object> assignments;
+    List<char> grades;
+    public void CreateAssignments()
     {
 
     }
